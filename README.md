@@ -13,3 +13,5 @@
 access_token=$(gh auth status | grep -o 'github\.com:\K[^ ]+')  # only for mac 
 
  # number of permisstion pull, triage, push, maintain, admin 
+ 
+ in userlist file don give email id pass username only 
